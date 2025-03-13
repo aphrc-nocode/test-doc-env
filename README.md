@@ -1,4 +1,4 @@
-## Test and Documantation
+## Test and Documentation
 Repo for documentation and testing codebase for no-code platform
 
 ## File system
