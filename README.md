@@ -1,6 +1,8 @@
 ## Test and Documentation
 Repo for documentation and testing codebase for no-code platform with omop cdm
 
+One project the repo includes is advanced feature selection
+
 ## File system
 
 - [docs](./docs): Should contain all the documents and write-ups. Some of these can be linked from the [README](./README.md)
