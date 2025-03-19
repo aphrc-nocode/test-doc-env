@@ -14,3 +14,8 @@ One project the repo includes is ***advanced feature selection***. Feature selec
 - [Back-end R package](https://github.com/aphrc-nocode/Rautoml)
 - [Docker containers](https://github.com/aphrc-nocode/no-code-devops)
 
+## Bibliography
+- [The Health Equity Explorer](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/health-equity-explorer-an-opensource-resource-for-distributed-health-equity-visualization-and-research-across-common-data-models/889DA01EF0A2C89BCDD501C7AC22B127)
+- [Machine Learning to Advance Individual and Population Health: A BMC Innovation Story](https://www.appsilon.com/case-studies/machine-learning-to-advance-individual-and-population-health-a-bmc-innovation-story)
+- [New Functionalities and UI for Health Equity Explorer for Boston Medical Center](https://www.appsilon.com/case-studies/new-functionalities-and-ui-for-health-equity-explorer-for-boston-medical-center)
+- [OHDSI Geographic Informations Systems (GIS)](https://ohdsi.github.io/GIS/#OHDSI_Geographic_Informations_Systems_(GIS))
