@@ -19,3 +19,4 @@ One project the repo includes is ***advanced feature selection***. Feature selec
 - [Machine Learning to Advance Individual and Population Health: A BMC Innovation Story](https://www.appsilon.com/case-studies/machine-learning-to-advance-individual-and-population-health-a-bmc-innovation-story)
 - [New Functionalities and UI for Health Equity Explorer for Boston Medical Center](https://www.appsilon.com/case-studies/new-functionalities-and-ui-for-health-equity-explorer-for-boston-medical-center)
 - [OHDSI Geographic Informations Systems (GIS)](https://ohdsi.github.io/GIS/#OHDSI_Geographic_Informations_Systems_(GIS))
+- [OHDSI Feature Extraction](https://github.com/OHDSI/FeatureExtraction?tab=readme-ov-file)
